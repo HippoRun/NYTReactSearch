@@ -1,0 +1,19 @@
+{
+  "name": "nytreactsearch",
+  "version": "1.0.0",
+  "description": "NYT React Search",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HippoRun/NYTReactSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HippoRun/NYTReactSearch/issues"
+  },
+  "homepage": "https://github.com/HippoRun/NYTReactSearch#readme"
+}
